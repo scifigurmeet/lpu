@@ -7,4 +7,4 @@ Just a tutorial repo
 
 This is something.
 
-collaborator.
+Hi, I'm a collaborator.
